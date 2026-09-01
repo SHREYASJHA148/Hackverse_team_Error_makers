@@ -1,0 +1,73 @@
+# Dependencies
+node_modules/
+yarn.lock
+
+# Build outputs
+dist/
+build/
+.env.local
+.env.*.local
+
+# IDE & Editor
+.vscode/
+.vscode-shared/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS
+.gitconfig
+ntuser.dat*
+NTUSER.DAT*
+*.LOG*
+*.ini
+
+# System folders (exclude from tracking)
+AppData/
+Application\ Data/
+Cookies/
+Local\ Settings/
+My\ Documents/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Start\ Menu/
+Templates/
+.antigravity-ide/
+.bun/
+.cache/
+.claude-omniroute/
+.codeium/
+.codex/
+.config/
+.copilot/
+.devin/
+.devin-shared/
+.docker/
+.gemini/
+.idlerc/
+.ollama/
+.omniroute/
+.streamlit/
+BrawlhallaReplays/
+Contacts/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+Links/
+Music/
+OneDrive/
+Pictures/
+Saved\ Games/
+Searches/
+Videos/
+battery-report.html
+.filmora_tray_version
+
+# Project-specific
+.env
+.claude.json
